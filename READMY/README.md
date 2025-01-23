@@ -80,4 +80,4 @@ Contact
 • Author: Bogdan Savchuk
 • GitHub: https://github.com/Bogdan1412
 
-https://github.com/Bogdan1412/food-delivery/
+https://bogdan1412.github.io/food-delivery/
